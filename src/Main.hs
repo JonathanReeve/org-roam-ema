@@ -2,6 +2,7 @@
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE QuasiQuotes #-}
 {-# LANGUAGE TypeApplications #-}
+{-# LANGUAGE LambdaCase #-}
 
 -- | This code generates a site based on Markdown files, rendering them using Pandoc.
 -- As such it might be a little too involved. Simpler examples can be found here,
